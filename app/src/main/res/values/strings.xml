@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ip">IP</string>
+    <string name="ip_raspberry">IP raspberry</string>
+    <string name="port_number">Port Number</string>
+    <string name="port_straiming">Port Straiming</string>
+    <string name="port_sensor">Port Sensor</string>
+    <string name="connect">Connect</string>
+</resources>
